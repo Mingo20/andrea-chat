@@ -1,0 +1,22 @@
+{
+  "name": "Andrea IA",
+  "short_name": "Andrea",
+  "description": "Tu asistente inteligente \u2014 DGtech",
+  "start_url": "/andrea-chat/",
+  "display": "standalone",
+  "background_color": "#0f0f13",
+  "theme_color": "#25D366",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "logo.jpg",
+      "sizes": "192x192",
+      "type": "image/jpeg"
+    },
+    {
+      "src": "logo.jpg",
+      "sizes": "512x512",
+      "type": "image/jpeg"
+    }
+  ]
+}
